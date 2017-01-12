@@ -20,7 +20,6 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
         eventTable.dataSource = self
         
    }
-
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
